@@ -1,7 +1,9 @@
 # PunchTrajectory
 Files for Punch Trajectory Project for IoT Class
 
-This file is preliminary and contains a master Excel spreadsheet containing all data.
+The attached jupyter notebook illustrates all punches with 9 axises (acc, gyr and mag), and includes a summary with 3 axises.
 There are six punch types.
-Also included are individual .csv files (one for each punch)
-The Jupyter notebook tests one same from each punch tpye and compares best data needed.
+Also included are individual .csv files (one for each punch) and summary Excel spreadsheet with all data.
+
+
+
